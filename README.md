@@ -13,7 +13,7 @@ Take the challenge at [JavaScript30.com](https://JavaScript30.com), be sure to c
 
 ![](challenges/01_-_JavaScript_Drum_Kit/screenshot.png)
 
-[**Source Files**](challenges/01_-_JavaScript_Drum_Kit)
+[**Source Files**](https://github.com/huntertrammell/JavaScript30Tracker/tree/main/challenges/01_-_JavaScript_Drum_Kit)
 
 [**Live Demo**](https://huntertrammell.github.io/JavaScript30Tracker/challenges/01_-_JavaScript_Drum_Kit/)
 
