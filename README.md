@@ -7,7 +7,8 @@ Captain's Log, Stardate 98931.76. I have recently decided to undertake the [#Jav
 Take the challenge at [JavaScript30.com](https://JavaScript30.com), be sure to checkout more of [Wes Bos' courses](https://wesbos.com/courses) and show your support!
 
 ----
-## Day 1: JavaScript Drum Kit
+Day 1: JavaScript Drum Kit
+---
 -----
 *Saturday May 1st, 2021* 
 
@@ -24,7 +25,7 @@ Another thing I found helpful was taking a look at the [different properties and
 I opted to try to build the app myself before watching the tutorial and without reviewing the solution. My approach wasn't quite as eloquent as Wes' -- and that is ok. This challenge is meant to help reinforce and invigorate your JavaScript knowledge. I happily refactored and gained some good insight on how to write cleaner code.
 
 ----
-## Notes
-
+Notes
+---
 ----
 Thanks to [@palashmon](https://github.com/palashmon) for the tracker inspiration 🙏🏻
