@@ -14,9 +14,9 @@ Day 1: JavaScript Drum Kit
 
 ![](challenges/01_-_JavaScript_Drum_Kit/screenshot.png)
 
-[**Source Files**](https://github.com/huntertrammell/JavaScript30Tracker/tree/main/challenges/01_-_JavaScript_Drum_Kit)
+[**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/01_-_JavaScript_Drum_Kit)
 
-[**Live Demo**](https://huntertrammell.github.io/JavaScript30Tracker/challenges/01_-_JavaScript_Drum_Kit/)
+[**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/01_-_JavaScript_Drum_Kit/)
 
 **TIL/Thoughts**: This was great, I think the biggest takeaway for me was the ```transitionend``` event listener. This was an event type I have not had the pleasure of working with yet. By listening to when the CSS transition had completed on the element we were able to remove the style that set the glow around the key.
 
