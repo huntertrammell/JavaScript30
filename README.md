@@ -1,8 +1,8 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# A JavaScript Honeymoon
 
-Captain's Log, Stardate 98931.76. I have recently decided to undertake the [#JavaScript30](https://JavaScript30.com) coding challenge. During the next 30 days I will be committing myself to spend a little more time working with JavaScript by means of building some really cool shit.
+Captain's Log, Stardate 98931.76. I have recently decided to undertake the [#JavaScript30](https://JavaScript30.com) coding challenge. During the next 30 days I will be committing myself to spend a little more time working with JavaScript by building some really cool shit.
 
 Take the challenge at [JavaScript30.com](https://JavaScript30.com), be sure to checkout more of [Wes Bos' courses](https://wesbos.com/courses) and show your support!
 
@@ -15,7 +15,7 @@ Take the challenge at [JavaScript30.com](https://JavaScript30.com), be sure to c
 
 [**Source Files**](challenges/01_-_JavaScript_Drum_Kit)
 
-**Live Demo**
+[**Live Demo**](https://huntertrammell.github.io/JavaScript30Tracker/challenges/01_-_JavaScript_Drum_Kit/)
 
 **TIL/Thoughts**: This was great, I think the biggest takeaway for me was the ```transitionend``` event listener. This was an event type I have not had the pleasure of working with yet. By listening to when the CSS transition had completed on the element we were able to remove the style that set the glow around the key.
 
@@ -24,16 +24,7 @@ Another thing I found helpful was taking a look at the [different properties and
 I opted to try to build the app myself before watching the tutorial and without reviewing the solution. My approach wasn't quite as eloquent as Wes' -- and that is ok. This challenge is meant to help reinforce and invigorate your JavaScript knowledge. I happily refactored and gained some good insight on how to write cleaner code.
 
 ----
-## Day 2: JS and CSS Clock
------
-*Sunday May 2nd, 2021* 
+## Notes
 
-[**Source Files**](challenges/02_-_JS_and_CSSClock)
-
-**Live Demo**
-
-**TIL/Thoughts**: 
-
-----
 ----
 Thanks to [@palashmon](https://github.com/palashmon) for the tracker inspiration 🙏🏻
