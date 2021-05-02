@@ -9,18 +9,26 @@ Take the challenge at [JavaScript30.com](https://JavaScript30.com), be sure to c
 ----
 ## Day 1: JavaScript Drum Kit
 -----
+*Saturday May 1st, 2021* 
 
-[**Source Files**]('challenges/01_-_JavaScript_Drum_Kit')
+![](challenges/01_-_JavaScript_Drum_Kit/screenshot.png)
+
+[**Source Files**](challenges/01_-_JavaScript_Drum_Kit)
 
 **Live Demo**
 
-**TIL/Thoughts**: 
+**TIL/Thoughts**: This was great, I think the biggest takeaway for me was the ```transitionend``` event listener. This was an event type I have not had the pleasure of working with yet. By listening to when the CSS transition had completed on the element we were able to remove the style that set the glow around the key.
+
+Another thing I found helpful was taking a look at the [different properties and methods](https://www.w3schools.com/jsref/dom_obj_audio.asp) related to the ```audio``` tag. We used the ```currentTime``` property to rewind the audio so that when ```audio.play()``` is called on the same element there is no delay.
+
+I opted to try to build the app myself before watching the tutorial and without reviewing the solution. My approach wasn't quite as eloquent as Wes' -- and that is ok. This challenge is meant to help reinforce and invigorate your JavaScript knowledge. I happily refactored and gained some good insight on how to write cleaner code.
 
 ----
 ## Day 2: JS and CSS Clock
 -----
+*Sunday May 2nd, 2021* 
 
-[**Source Files**]('challenges/02_-_JS_and_CSS_Clock')
+[**Source Files**](challenges/02_-_JS_and_CSSClock)
 
 **Live Demo**
 
