@@ -29,11 +29,11 @@ I opted to try to build the app myself before watching the tutorial and without 
 -----
 *Saturday May 1st, 2021* 
 
-![](challenges/01_-_JavaScript_Drum_Kit/screenshot.png)
+![](https://huntertrammell.github.io/JavaScript30/challenges/02_-_JS_and_CSS_Clock/screenshot.png)
 
-[**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/01_-_JavaScript_Drum_Kit)
+[**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/02_-_JS_and_CSS_Clock)
 
-[**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/01_-_JavaScript_Drum_Kit/)
+[**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/02_-_JS_and_CSS_Clock/)
 
 **TIL/Thoughts**: I haven't worked with ```setInterval``` much since first learning how to code building stopwatches etc, but i'm really thankful for this exercise for giving me a reason to fiddle! Using this method to power animations is really cool and I can see it being useful in creating more complex animations, i've been wanting to experiment more with animations and am excited to utilize this more in future projects.
 
