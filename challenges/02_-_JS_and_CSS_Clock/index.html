@@ -62,13 +62,52 @@
       background: black;
       position: absolute;
       top: 50%;
+      transform-origin: 100%;
+      transform: rotate(90deg);
+    }
+    .min-hand, .hour-hand {
+      transition: transform 0.5s cubic-bezier(0, 0.01, 1,-0.15);
+    }
+    .second-hand {
+      width: 50%;
+      background-color: red;
+      height: 2px;
+    }
+    .min-hand {
+      height: 4px;
     }
 
   </style>
 
   <script>
+    const secondHand = document.querySelector('.second-hand');
+    const minHand = document.querySelector('.min-hand');
+    const hourHand = document.querySelector('.hour-hand');
 
+    function setDate(){
+      const now = new Date();
 
+      const seconds = now.getSeconds();
+      tick(secondHand, degrees(seconds, 60));
+
+      const mins = now.getMinutes();
+      tick(minHand, degrees(mins, 60));
+
+      const hours = now.getHours();
+      tick(hourHand, degrees(hours, 12));
+    }
+
+    // Function takes in the hand to move and how many degrees to move it in css
+    function tick(hand, degrees){
+      hand.style.transform = `rotate(${degrees}deg)`;
+    }
+
+    // Function returns the proper degree based on the time and the items max value (60 is the Max value for seconds, 12 max value for hours, etc)
+    function degrees(time, maxTime){
+      return ( ( time / maxTime) * 360 ) + 90;
+    }
+
+    setInterval(setDate, 1000);
   </script>
 </body>
 </html>
