@@ -45,7 +45,7 @@ I did a bit of refactoring as a challenge to myself. The build on this was fairl
 -----
 *Monday May 3rd, 2021* 
 
-![](https://huntertrammell.github.io/JavaScript30/challenges/02_-_JS_and_CSS_Clock/screenshot.png)
+![](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/03%20-%20CSS%20Variables/screenshot.png)
 
 [**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/03%20-%20CSS%20Variables)
 
