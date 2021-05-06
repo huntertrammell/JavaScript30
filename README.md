@@ -79,7 +79,7 @@ I did a bit of refactoring as a challenge to myself. The build on this was fairl
 
 [**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/05%20-%20Flex%20Panel%20Gallery/)
 
-**TIL/Thoughts**: 
+**TIL/Thoughts**: Such flex. Pretty cool app, what I really like about this is that it utilizes flex to evenly space items in any viewport without needing to worry about adding widths/breakpoints to each item. Really digging the ```transitionend``` property, by listening for a specific transition via ```event.propertyName``` we were able to chain transitions so that they would all fire at once or rely on timers to function properly. JavaScript + CSS for the win!
 
 
 ----
