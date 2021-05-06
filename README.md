@@ -59,13 +59,27 @@ I did a bit of refactoring as a challenge to myself. The build on this was fairl
 -----
 *Tuesday May 4th, 2021* 
 
-![](https://huntertrammell.github.io/JavaScript30/challenges/04%20-%20Array%20Cardio%20Day%201//screenshot.png)
+![](https://huntertrammell.github.io/JavaScript30/challenges/04%20-%20Array%20Cardio%20Day%201/screenshot.png)
 
 [**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/04%20-%20Array%20Cardio%20Day%201)
 
 [**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/04%20-%20Array%20Cardio%20Day%201/)
 
 **TIL/Thoughts**: 🏃🏼‍♂️ Loved todays session, i've been wanting to get a greater understanding of the different properties and methods available to arrays and this really helped expand on my knowledge. Honestly though ```console.table``` was the real superstar here, what a gorgeous data representation. My interest has for sure been peeked and am looking forward to diving deeper into the world of arrays.
+
+
+----
+## Day 5: Flex Panel Gallery
+-----
+*Tuesday May 5th, 2021* 
+
+![](https://huntertrammell.github.io/JavaScript30/challenges/05%20-%20Flex%20Panel%20Gallery/screenshot.png)
+
+[**Source Files**](https://github.com/huntertrammell/JavaScript30/tree/main/challenges/05%20-%20Flex%20Panel%20Gallery)
+
+[**Live Demo**](https://huntertrammell.github.io/JavaScript30/challenges/05%20-%20Flex%20Panel%20Gallery/)
+
+**TIL/Thoughts**: 
 
 
 ----
